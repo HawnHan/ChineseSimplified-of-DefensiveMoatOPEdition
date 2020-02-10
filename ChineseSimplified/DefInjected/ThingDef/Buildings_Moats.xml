@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Moat 1 -->
+
+  <impmoat.label>不可逾越的壕沟</impmoat.label>
+  <impmoat.description>不可逾越的壕沟</impmoat.description>
+  <impmoat_Blueprint.label>不可逾越的壕沟(蓝图)</impmoat_Blueprint.label>
+  <impmoat_Frame.label>不可逾越的壕沟(建造中)</impmoat_Frame.label>
+  <impmoat_Frame.description>不可逾越的壕沟。</impmoat_Frame.description>
+
+
+</LanguageData>
